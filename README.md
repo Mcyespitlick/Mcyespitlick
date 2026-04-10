@@ -20,7 +20,7 @@ Research Skills
 Software Development: SQL, C#, JaveScript, Python, CSS, HTML, REACT
 
 
-#Projects
+# Projects
  
 Arcade-Customer-registration-and-update-App: (https://github.com/Mcyespitlick/Arcade-Customer-registration-and-update-App)
 
