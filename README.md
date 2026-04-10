@@ -17,7 +17,7 @@ Technical Skills: Linear Programming, Statistical analysis, IoT software/hardwar
 
 Research Skills
 
-Software Development: SQL, C#, JaveScript, Python, CSS, HTML, REACT
+CNC Programming: 3-axis Lathe, 3-axis Mill
 
 
 # Projects
