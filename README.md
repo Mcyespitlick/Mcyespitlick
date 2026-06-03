@@ -21,6 +21,8 @@ CNC Programming: 3-axis Lathe, 3-axis Mill
 
 
 # Projects
+
+Mini-Smart_farm: (https://github.com/Mcyespitlick/Mini-Smart-Farm)
  
 Arcade-Customer-registration-and-update-App: (https://github.com/Mcyespitlick/Arcade-Customer-registration-and-update-App)
 
