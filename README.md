@@ -11,7 +11,7 @@ I am currently seeking internship/graduate opportunities in software development
 
 # Skills
 
-Software Development: SQL, C#, JaveScript, Python, CSS, HTML, REACT
+Software Development: SQL, C#, Java, JavaScript, Python, CSS, HTML, REACT
 
 Technical Skills: Linear Programming, Statistical analysis, IoT software/hardware integration 
 
