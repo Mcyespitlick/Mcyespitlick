@@ -1,23 +1,23 @@
 
 # 👋 Hi, I’m Michael Brian Cheyne
 
-I am a third year Software Engineering Student at Belgium Campus iTversity 
+I am a third year software engineering student at Belgium Campus iTversity. 
 
-I have worked in the Mechanical industry for almost 6 years before staring my studies in Software Engineering
+I have worked in the mechanical industry for almost 6 years before starting my studies in software engineering.
 
-I am passionate about creating things, be it physically or software.
+I am passionate about creating things, be it physically or virtually.
 
-I am currently seeking internship/graduate opportunities in software development 
+I am currently seeking internship/graduate opportunities in software development. 
 
 # Skills
 
-Software Development: SQL, C#, Java, JavaScript, Python, CSS, HTML, REACT
+Software development: SQL, C#, Java, JavaScript, Python, CSS, HTML, REACT.
 
-Technical Skills: Linear Programming, Statistical analysis, IoT software/hardware integration 
+Technical skills: Linear programming, statistical analysis, IoT software/hardware integration. 
 
-Research Skills
+Research skills.
 
-CNC Programming: 3-axis Lathe, 3-axis Mill
+CNC programming: 3-axis lathe, 3-axis mill.
 
 
 # Projects
