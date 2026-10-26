@@ -11,7 +11,7 @@ I am currently seeking internship/graduate opportunities in software development
 
 # Skills
 
-Software development: SQL, C#, Java, JavaScript, Python, CSS, HTML, REACT.
+Software development: C#, Java, JavaScript, Python, SQL, HTML5, CSS, React, Node.js, Express.js, REST API’s, PostgreSQL, MongoDB, Microsoft Access, Git & Github, IntelliJ Idea, Netbeans 
 
 Technical skills: Linear programming, statistical analysis, IoT software/hardware integration. 
 
@@ -21,6 +21,8 @@ CNC programming: 3-axis lathe, 3-axis mill.
 
 
 # Projects
+
+CivicConnect_Service_Request_Manager: (https://github.com/Destroyer1819/SEN381_Project)
 
 Mini-Smart_farm: (https://github.com/Mcyespitlick/Mini-Smart-Farm)
 
